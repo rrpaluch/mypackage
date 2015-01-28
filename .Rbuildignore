@@ -1,0 +1,7 @@
+^.∗\.Rproj$
+^\.Rproj\.rpaluch$
+^\.Rhistory$
+^\.RData$
+^\.git
+^\.gitignore$
+^README.md$

@@ -1,0 +1,16 @@
+Package: mypackage
+Type: Package
+Title: My last homework for Advanced R
+Version: 1.0
+Date: 2015-01-28
+Author: Robert Paluch
+Maintainer: Robert Paluch <paluch@if.pw.edu.pl>
+Description: The package contains two Rcpp functions - mode2() and simplify2array2()
+  Function mode2() calculates a mode for a given integer vector
+  Function simplify2array2() converts a list containing numeric vectors into a matrix
+License: GPL (>= 2)
+URL: http://github.com/rrpaluch/homework6
+BugReports: http://github.com/rrpaluch/homework6
+Imports: Rcpp (>= 0.11.3)
+LinkingTo: Rcpp
+Suggest: testthat
